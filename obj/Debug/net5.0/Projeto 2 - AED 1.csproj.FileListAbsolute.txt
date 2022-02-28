@@ -1,0 +1,72 @@
+C:\Users\Administrator\source\repos\Projeto 2 - AED 1\bin\Debug\net5.0\Projeto 2 - AED 1.exe
+C:\Users\Administrator\source\repos\Projeto 2 - AED 1\bin\Debug\net5.0\Projeto 2 - AED 1.deps.json
+C:\Users\Administrator\source\repos\Projeto 2 - AED 1\bin\Debug\net5.0\Projeto 2 - AED 1.runtimeconfig.json
+C:\Users\Administrator\source\repos\Projeto 2 - AED 1\bin\Debug\net5.0\Projeto 2 - AED 1.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\Projeto 2 - AED 1\bin\Debug\net5.0\Projeto 2 - AED 1.dll
+C:\Users\Administrator\source\repos\Projeto 2 - AED 1\bin\Debug\net5.0\ref\Projeto 2 - AED 1.dll
+C:\Users\Administrator\source\repos\Projeto 2 - AED 1\bin\Debug\net5.0\Projeto 2 - AED 1.pdb
+C:\Users\Administrator\source\repos\Projeto 2 - AED 1\obj\Debug\net5.0\Projeto 2 - AED 1.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Projeto 2 - AED 1\obj\Debug\net5.0\Projeto 2 - AED 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\Projeto 2 - AED 1\obj\Debug\net5.0\Projeto 2 - AED 1.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Projeto 2 - AED 1\obj\Debug\net5.0\Projeto 2 - AED 1.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Projeto 2 - AED 1\obj\Debug\net5.0\Projeto 2 - AED 1.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Projeto 2 - AED 1\obj\Debug\net5.0\Projeto 2 - AED 1.dll
+C:\Users\Administrator\source\repos\Projeto 2 - AED 1\obj\Debug\net5.0\ref\Projeto 2 - AED 1.dll
+C:\Users\Administrator\source\repos\Projeto 2 - AED 1\obj\Debug\net5.0\Projeto 2 - AED 1.pdb
+C:\Users\Administrator\source\repos\Projeto 2 - AED 1\obj\Debug\net5.0\Projeto 2 - AED 1.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\Projeto 2 - AED 1\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\Administrator\source\repos\Projeto 2 - AED 1\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Users\Administrator\source\repos\Projeto 2 - AED 1\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+C:\Users\Administrator\source\repos\Projeto 2 - AED 1\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\Administrator\source\repos\Projeto 2 - AED 1\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+C:\Users\Administrator\source\repos\Projeto 2 - AED 1\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Administrator\source\repos\Projeto 2 - AED 1\bin\Debug\net5.0\MySql.Data.dll
+C:\Users\Administrator\source\repos\Projeto 2 - AED 1\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+C:\Users\Administrator\source\repos\Projeto 2 - AED 1\bin\Debug\net5.0\ZstdNet.dll
+C:\Users\Administrator\source\repos\Projeto 2 - AED 1\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Administrator\source\repos\Projeto 2 - AED 1\bin\Debug\net5.0\System.Drawing.Common.dll
+C:\Users\Administrator\source\repos\Projeto 2 - AED 1\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Administrator\source\repos\Projeto 2 - AED 1\bin\Debug\net5.0\System.Security.Permissions.dll
+C:\Users\Administrator\source\repos\Projeto 2 - AED 1\bin\Debug\net5.0\System.Windows.Extensions.dll
+C:\Users\Administrator\source\repos\Projeto 2 - AED 1\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Administrator\source\repos\Projeto 2 - AED 1\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Administrator\source\repos\Projeto 2 - AED 1\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Administrator\source\repos\Projeto 2 - AED 1\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Administrator\source\repos\Projeto 2 - AED 1\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Administrator\source\repos\Projeto 2 - AED 1\obj\Debug\net5.0\Projeto 2 - AED 1.csproj.CopyComplete
+D:\Repositorios\Projeto 2 - AED1\bin\Debug\net5.0\Projeto 2 - AED 1.exe
+D:\Repositorios\Projeto 2 - AED1\bin\Debug\net5.0\Projeto 2 - AED 1.deps.json
+D:\Repositorios\Projeto 2 - AED1\bin\Debug\net5.0\Projeto 2 - AED 1.runtimeconfig.json
+D:\Repositorios\Projeto 2 - AED1\bin\Debug\net5.0\Projeto 2 - AED 1.runtimeconfig.dev.json
+D:\Repositorios\Projeto 2 - AED1\bin\Debug\net5.0\Projeto 2 - AED 1.dll
+D:\Repositorios\Projeto 2 - AED1\bin\Debug\net5.0\ref\Projeto 2 - AED 1.dll
+D:\Repositorios\Projeto 2 - AED1\bin\Debug\net5.0\Projeto 2 - AED 1.pdb
+D:\Repositorios\Projeto 2 - AED1\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+D:\Repositorios\Projeto 2 - AED1\bin\Debug\net5.0\Google.Protobuf.dll
+D:\Repositorios\Projeto 2 - AED1\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+D:\Repositorios\Projeto 2 - AED1\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+D:\Repositorios\Projeto 2 - AED1\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+D:\Repositorios\Projeto 2 - AED1\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+D:\Repositorios\Projeto 2 - AED1\bin\Debug\net5.0\MySql.Data.dll
+D:\Repositorios\Projeto 2 - AED1\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+D:\Repositorios\Projeto 2 - AED1\bin\Debug\net5.0\ZstdNet.dll
+D:\Repositorios\Projeto 2 - AED1\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Repositorios\Projeto 2 - AED1\bin\Debug\net5.0\System.Drawing.Common.dll
+D:\Repositorios\Projeto 2 - AED1\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Repositorios\Projeto 2 - AED1\bin\Debug\net5.0\System.Security.Permissions.dll
+D:\Repositorios\Projeto 2 - AED1\bin\Debug\net5.0\System.Windows.Extensions.dll
+D:\Repositorios\Projeto 2 - AED1\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Repositorios\Projeto 2 - AED1\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Repositorios\Projeto 2 - AED1\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Repositorios\Projeto 2 - AED1\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Repositorios\Projeto 2 - AED1\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Repositorios\Projeto 2 - AED1\obj\Debug\net5.0\Projeto 2 - AED 1.csproj.AssemblyReference.cache
+D:\Repositorios\Projeto 2 - AED1\obj\Debug\net5.0\Projeto 2 - AED 1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositorios\Projeto 2 - AED1\obj\Debug\net5.0\Projeto 2 - AED 1.AssemblyInfoInputs.cache
+D:\Repositorios\Projeto 2 - AED1\obj\Debug\net5.0\Projeto 2 - AED 1.AssemblyInfo.cs
+D:\Repositorios\Projeto 2 - AED1\obj\Debug\net5.0\Projeto 2 - AED 1.csproj.CoreCompileInputs.cache
+D:\Repositorios\Projeto 2 - AED1\obj\Debug\net5.0\Projeto 2 - AED 1.csproj.CopyComplete
+D:\Repositorios\Projeto 2 - AED1\obj\Debug\net5.0\Projeto 2 - AED 1.dll
+D:\Repositorios\Projeto 2 - AED1\obj\Debug\net5.0\ref\Projeto 2 - AED 1.dll
+D:\Repositorios\Projeto 2 - AED1\obj\Debug\net5.0\Projeto 2 - AED 1.pdb
+D:\Repositorios\Projeto 2 - AED1\obj\Debug\net5.0\Projeto 2 - AED 1.genruntimeconfig.cache

@@ -1,0 +1,48 @@
+C:\Users\ronaldo.junior\Desktop\AED1\Projeto-2---AED-1\bin\Debug\net472\Projeto 2 - AED 1.exe.config
+C:\Users\ronaldo.junior\Desktop\AED1\Projeto-2---AED-1\bin\Debug\net472\Projeto 2 - AED 1.runtimeconfig.json
+C:\Users\ronaldo.junior\Desktop\AED1\Projeto-2---AED-1\bin\Debug\net472\Projeto 2 - AED 1.runtimeconfig.dev.json
+C:\Users\ronaldo.junior\Desktop\AED1\Projeto-2---AED-1\bin\Debug\net472\Projeto 2 - AED 1.exe
+C:\Users\ronaldo.junior\Desktop\AED1\Projeto-2---AED-1\bin\Debug\net472\Projeto 2 - AED 1.pdb
+C:\Users\ronaldo.junior\Desktop\AED1\Projeto-2---AED-1\bin\Debug\net472\BouncyCastle.Crypto.dll
+C:\Users\ronaldo.junior\Desktop\AED1\Projeto-2---AED-1\bin\Debug\net472\Google.Protobuf.dll
+C:\Users\ronaldo.junior\Desktop\AED1\Projeto-2---AED-1\bin\Debug\net472\K4os.Compression.LZ4.dll
+C:\Users\ronaldo.junior\Desktop\AED1\Projeto-2---AED-1\bin\Debug\net472\K4os.Compression.LZ4.Streams.dll
+C:\Users\ronaldo.junior\Desktop\AED1\Projeto-2---AED-1\bin\Debug\net472\K4os.Hash.xxHash.dll
+C:\Users\ronaldo.junior\Desktop\AED1\Projeto-2---AED-1\bin\Debug\net472\MySql.Data.dll
+C:\Users\ronaldo.junior\Desktop\AED1\Projeto-2---AED-1\bin\Debug\net472\Ubiety.Dns.Core.dll
+C:\Users\ronaldo.junior\Desktop\AED1\Projeto-2---AED-1\bin\Debug\net472\ZstdNet.dll
+C:\Users\ronaldo.junior\Desktop\AED1\Projeto-2---AED-1\bin\Debug\net472\System.Buffers.dll
+C:\Users\ronaldo.junior\Desktop\AED1\Projeto-2---AED-1\bin\Debug\net472\System.Memory.dll
+C:\Users\ronaldo.junior\Desktop\AED1\Projeto-2---AED-1\bin\Debug\net472\System.Numerics.Vectors.dll
+C:\Users\ronaldo.junior\Desktop\AED1\Projeto-2---AED-1\bin\Debug\net472\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ronaldo.junior\Desktop\AED1\Projeto-2---AED-1\obj\Debug\net472\Projeto 2 - AED 1.csprojAssemblyReference.cache
+C:\Users\ronaldo.junior\Desktop\AED1\Projeto-2---AED-1\obj\Debug\net472\Projeto 2 - AED 1.exe.config
+C:\Users\ronaldo.junior\Desktop\AED1\Projeto-2---AED-1\obj\Debug\net472\Projeto 2 - AED 1.csproj.CoreCompileInputs.cache
+C:\Users\ronaldo.junior\Desktop\AED1\Projeto-2---AED-1\obj\Debug\net472\Projeto 2 - AED 1.AssemblyInfo.cs
+C:\Users\ronaldo.junior\Desktop\AED1\Projeto-2---AED-1\obj\Debug\net472\Projeto 2 - AED 1.csproj.CopyComplete
+C:\Users\ronaldo.junior\Desktop\AED1\Projeto-2---AED-1\obj\Debug\net472\Projeto 2 - AED 1.exe
+C:\Users\ronaldo.junior\Desktop\AED1\Projeto-2---AED-1\obj\Debug\net472\Projeto 2 - AED 1.pdb
+C:\Users\Administrator\Desktop\Projeto-2---AED-1\bin\Debug\net472\Projeto 2 - AED 1.exe.config
+C:\Users\Administrator\Desktop\Projeto-2---AED-1\bin\Debug\net472\Projeto 2 - AED 1.exe
+C:\Users\Administrator\Desktop\Projeto-2---AED-1\bin\Debug\net472\Projeto 2 - AED 1.pdb
+C:\Users\Administrator\Desktop\Projeto-2---AED-1\bin\Debug\net472\BouncyCastle.Crypto.dll
+C:\Users\Administrator\Desktop\Projeto-2---AED-1\bin\Debug\net472\Google.Protobuf.dll
+C:\Users\Administrator\Desktop\Projeto-2---AED-1\bin\Debug\net472\K4os.Compression.LZ4.dll
+C:\Users\Administrator\Desktop\Projeto-2---AED-1\bin\Debug\net472\K4os.Compression.LZ4.Streams.dll
+C:\Users\Administrator\Desktop\Projeto-2---AED-1\bin\Debug\net472\K4os.Hash.xxHash.dll
+C:\Users\Administrator\Desktop\Projeto-2---AED-1\bin\Debug\net472\MySql.Data.dll
+C:\Users\Administrator\Desktop\Projeto-2---AED-1\bin\Debug\net472\Ubiety.Dns.Core.dll
+C:\Users\Administrator\Desktop\Projeto-2---AED-1\bin\Debug\net472\ZstdNet.dll
+C:\Users\Administrator\Desktop\Projeto-2---AED-1\bin\Debug\net472\System.Buffers.dll
+C:\Users\Administrator\Desktop\Projeto-2---AED-1\bin\Debug\net472\System.Memory.dll
+C:\Users\Administrator\Desktop\Projeto-2---AED-1\bin\Debug\net472\System.Numerics.Vectors.dll
+C:\Users\Administrator\Desktop\Projeto-2---AED-1\bin\Debug\net472\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Administrator\Desktop\Projeto-2---AED-1\obj\Debug\net472\Projeto 2 - AED 1.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Projeto-2---AED-1\obj\Debug\net472\Projeto 2 - AED 1.exe.config
+C:\Users\Administrator\Desktop\Projeto-2---AED-1\obj\Debug\net472\Projeto 2 - AED 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Projeto-2---AED-1\obj\Debug\net472\Projeto 2 - AED 1.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Projeto-2---AED-1\obj\Debug\net472\Projeto 2 - AED 1.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Projeto-2---AED-1\obj\Debug\net472\Projeto 2 - AED 1.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Projeto-2---AED-1\obj\Debug\net472\Projeto 2 - AED 1.csproj.CopyComplete
+C:\Users\Administrator\Desktop\Projeto-2---AED-1\obj\Debug\net472\Projeto 2 - AED 1.exe
+C:\Users\Administrator\Desktop\Projeto-2---AED-1\obj\Debug\net472\Projeto 2 - AED 1.pdb
